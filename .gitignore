@@ -1,0 +1,16 @@
+# Archivos de respaldo y temporales de KiCad
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.brd-bak
+_autosave-*
+*.kicad_prl
+*.lck
+*.tmp
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
