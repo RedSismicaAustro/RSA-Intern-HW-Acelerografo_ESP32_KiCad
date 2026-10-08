@@ -210,7 +210,11 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.5,
+        0.7,
+        1.0,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -710,7 +714,7 @@
         "uuid": "09cc756f-3dd9-47af-9eac-392842671174"
       }
     ],
-    "used_designators": "U1-7,R1-18,J1-18,MicroSD1,L1,GPS1,#PWR1-40,C1-19,RV1,D1-7,RVe1,SW1-2,BT1",
+    "used_designators": "U1-8,J1-18,R1-18,MicroSD1,GPS1,#PWR1-42,L1,C1-24,RV1,D1-7,RVe1,12V1,SW1-2,BT1,EN1,RTS1",
     "variants": []
   },
   "sheets": [
